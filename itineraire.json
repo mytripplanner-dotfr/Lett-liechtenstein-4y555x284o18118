@@ -1,0 +1,473 @@
+{
+  "pays": "Liechtenstein",
+  "drapeau": "🇱🇮",
+  "symbole": "🏰",
+  "titre": "Évasion Alpine et Sérénité au Cœur du Liechtenstein",
+  "budget_total": "Environ 4200 €/personne",
+  "duree": "14 jours",
+  "temps_vol": "7h55 (depuis Akner, Arménie, via ZRH)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douce Immersion à Vaduz",
+      "legende": "Après un voyage depuis l'Arménie, atterrissez à Zurich, porte d'entrée vers le Liechtenstein. Un transfert relaxant vous mènera à Vaduz, la capitale, où une première balade vous permettra de vous imprégner de l'atmosphère alpine et princière.",
+      "lieu": "Vaduz",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Zurich (ZRH) et transfert vers Vaduz.",
+        "<strong>🛏️</strong>: Installation confortable dans votre hôtel à Vaduz.",
+        "<strong>🚶‍♂️</strong>: Première balade relaxante dans le centre-ville de Vaduz, le \"Städtle\"."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "Depuis Zurich, le train jusqu'à Sargans (Suisse) puis un bus direct pour Vaduz est une option pittoresque et relaxante. Comptez environ 1h30 à 2h de trajet total."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Découverte Royale et Culturelle de Vaduz",
+      "legende": "Explorez le cœur de Vaduz, dominé par son imposant château princier. Plongez dans l'art moderne et l'histoire postale du pays, puis profitez d'une après-midi libre pour flâner ou vous détendre.",
+      "lieu": "Vaduz",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Promenade jusqu'au Château de Vaduz (extérieur) pour admirer la vue panoramique.",
+        "<strong>🖼️</strong>: Visite du Kunstmuseum Liechtenstein, un joyau d'architecture et d'art moderne.",
+        "<strong>✉️</strong>: Exploration du Musée de la Poste, retraçant l'histoire philatélique du pays."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Vaduz, Vaduz",
+          "categorie": "Château",
+          "coords": { "lat": 47.1399, "lng": 9.5209 }
+        },
+        {
+          "nom_recherche": "Kunstmuseum Liechtenstein, Vaduz",
+          "categorie": "Musée",
+          "coords": { "lat": 47.1393, "lng": 9.5210 }
+        },
+        {
+          "nom_recherche": "Postmuseum, Vaduz",
+          "categorie": "Musée",
+          "coords": { "lat": 47.1395, "lng": 9.5205 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "👑",
+          "titre": "Le Château",
+          "texte": "Le Château de Vaduz est la résidence officielle de la famille princière et n'est pas ouvert au public, mais la vue depuis ses abords est imprenable."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Sérénité Alpine à Triesenberg et Malbun",
+      "legende": "Évadez-vous vers les hauteurs pour découvrir Triesenberg, un village Walser pittoresque, avant de rejoindre Malbun, une station alpine paisible. Profitez de l'air pur et de paysages grandioses pour une balade douce.",
+      "lieu": "Triesenberg & Malbun",
+      "activites": [
+        "<strong>🚌</strong>: Trajet panoramique en bus vers Triesenberg, avec ses maisons typiques.",
+        "<strong>⛪</strong>: Visite de l'église de Triesenberg et son architecture unique.",
+        "<strong>🚶‍♀️</strong>: Balade facile à Malbun, station de montagne idéale pour la détente et les vues."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Triesenberg, Liechtenstein",
+          "categorie": "Village",
+          "coords": { "lat": 47.1167, "lng": 9.5500 }
+        },
+        {
+          "nom_recherche": "Malbun, Liechtenstein",
+          "categorie": "Station de montagne",
+          "coords": { "lat": 47.1080, "lng": 9.6000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Nature",
+          "texte": "Malbun offre de nombreux sentiers de randonnée faciles, parfaits pour une promenade relaxante au milieu des alpages en septembre."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏞️",
+      "titre": "Histoire et Vues Imprenables à Balzers",
+      "legende": "Dirigez-vous vers le sud du pays pour explorer Balzers et son impressionnant Château de Gutenberg. L'après-midi sera dédiée à la contemplation des paysages le long du Rhin, offrant une pause paisible.",
+      "lieu": "Balzers",
+      "activites": [
+        "<strong>🏰</strong>: Visite du Château de Gutenberg à Balzers, une forteresse médiévale bien conservée.",
+        "<strong>🚶‍♂️</strong>: Promenade relaxante le long des rives du Rhin, près de Balzers.",
+        "<strong>☕</strong>: Pause café dans un établissement local, profitant de l'ambiance tranquille."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Gutenberg, Balzers",
+          "categorie": "Château",
+          "coords": { "lat": 47.0667, "lng": 9.4717 }
+        },
+        {
+          "nom_recherche": "Rives du Rhin, Balzers",
+          "categorie": "Nature",
+          "coords": { "lat": 47.0680, "lng": 9.4600 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Accès",
+          "texte": "Le Château de Gutenberg est accessible à pied depuis le centre de Balzers. L'intérieur est parfois ouvert pour des événements, mais l'extérieur et les jardins sont toujours accessibles."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🦆",
+      "titre": "Nature et Sérénité au Gampriner Seele",
+      "legende": "Changez de décor en explorant le nord du Liechtenstein. Découvrez le Gampriner Seele, le seul lac naturel du pays, et profitez d'une balade apaisante dans la réserve naturelle environnante, un havre de paix pour la faune.",
+      "lieu": "Gamprin",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Balade autour du Gampriner Seele, le lac naturel du Liechtenstein.",
+        "<strong>🌿</strong>: Observation de la faune et de la flore dans la réserve naturelle de Ruggeller Riet.",
+        "<strong>🧺</strong>: Pique-nique relaxant au bord du lac ou dans la nature environnante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gampriner Seele, Gamprin",
+          "categorie": "Lac",
+          "coords": { "lat": 47.2300, "lng": 9.5300 }
+        },
+        {
+          "nom_recherche": "Ruggeller Riet, Ruggell",
+          "categorie": "Réserve naturelle",
+          "coords": { "lat": 47.2400, "lng": 9.5400 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Origine",
+          "texte": "Le Gampriner Seele est né d'une inondation du Rhin en 1927, ce qui en fait un site unique et précieux pour la biodiversité locale."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "📜",
+      "titre": "Traces Historiques à Schellenberg et Eschen",
+      "legende": "Remontez le temps en visitant les ruines du château de Schellenberg, offrant des vues imprenables. Poursuivez avec une exploration d'Eschen, un village charmant, et son musée local pour une immersion culturelle douce.",
+      "lieu": "Schellenberg & Eschen",
+      "activites": [
+        "<strong> ruins</strong>: Découverte des ruines du Château de Schellenberg et de ses panoramas.",
+        "<strong>🚶‍♂️</strong>: Promenade dans le village d'Eschen, appréciant son calme et son authenticité.",
+        "<strong>🏛️</strong>: Visite du Musée d'Histoire Locale d'Eschen (Heimatmuseum Eschen)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Ruines du Château de Schellenberg, Schellenberg",
+          "categorie": "Site historique",
+          "coords": { "lat": 47.2380, "lng": 9.5410 }
+        },
+        {
+          "nom_recherche": "Eschen, Liechtenstein",
+          "categorie": "Village",
+          "coords": { "lat": 47.2167, "lng": 9.5333 }
+        },
+        {
+          "nom_recherche": "Heimatmuseum Eschen, Eschen",
+          "categorie": "Musée",
+          "coords": { "lat": 47.2160, "lng": 9.5300 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🔭",
+          "titre": "Vue",
+          "texte": "Depuis Schellenberg, par temps clair, vous pouvez apercevoir une grande partie de la vallée du Rhin et les montagnes autrichiennes et suisses environnantes."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🎨",
+      "titre": "Artisanat et Détente à Nendeln et Schaan",
+      "legende": "Explorez l'artisanat local à Nendeln avec sa poterie traditionnelle, puis dirigez-vous vers Schaan, la plus grande commune du Liechtenstein. Profitez d'une balade paisible et d'un moment de détente dans cette ville animée mais sereine.",
+      "lieu": "Nendeln & Schaan",
+      "activites": [
+        "<strong>🏺</strong>: Visite de la Poterie de Nendeln (Schaedler Keramik), pour découvrir l'artisanat local.",
+        "<strong>🚶‍♀️</strong>: Promenade dans le centre de Schaan, la plus grande ville du pays.",
+        "<strong>🌳</strong>: Détente dans un parc ou sur une terrasse de café à Schaan."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Schaedler Keramik, Nendeln",
+          "categorie": "Artisanat",
+          "coords": { "lat": 47.2000, "lng": 9.5400 }
+        },
+        {
+          "nom_recherche": "Schaan, Liechtenstein",
+          "categorie": "Ville",
+          "coords": { "lat": 47.1667, "lng": 9.5000 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs",
+          "texte": "La poterie de Nendeln est un excellent endroit pour trouver des souvenirs authentiques et faits main du Liechtenstein."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🌲",
+      "titre": "Retour aux Sources Alpines de Malbun",
+      "legende": "Profitez d'une journée pour revisiter Malbun, ou explorer un nouveau sentier de randonnée facile. L'objectif est de se ressourcer pleinement dans l'environnement montagnard, loin de l'agitation.",
+      "lieu": "Malbun",
+      "activites": [
+        "<strong>🚠</strong>: Montée en télésiège (si opérationnel) pour des vues encore plus spectaculaires.",
+        "<strong>🚶‍♀️</strong>: Randonnée douce sur un sentier panoramique adapté à la détente.",
+        "<strong>🍽️</strong>: Déjeuner dans un restaurant d'altitude, savourant les spécialités locales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Malbun, Liechtenstein",
+          "categorie": "Station de montagne",
+          "coords": { "lat": 47.1080, "lng": 9.6000 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Météo",
+          "texte": "En septembre, les journées en montagne peuvent être ensoleillées mais les soirées fraîches. Prévoyez des couches de vêtements pour profiter pleinement de l'extérieur."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🍇",
+      "titre": "Dégustation et Détente à Vaduz",
+      "legende": "Retour à Vaduz pour une journée plus tranquille. Profitez-en pour faire du shopping de souvenirs, visiter un vignoble local pour une dégustation, ou simplement vous détendre dans un café en observant la vie locale.",
+      "lieu": "Vaduz",
+      "activites": [
+        "<strong>🛍️</strong>: Shopping de souvenirs dans le \"Städtle\" de Vaduz.",
+        "<strong>🍷</strong>: Visite et dégustation au Hofkellerei des Fürsten von Liechtenstein (cave princière).",
+        "<strong> leisurely</strong>: Après-midi libre pour se détendre ou revisiter un lieu favori."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Hofkellerei des Fürsten von Liechtenstein, Vaduz",
+          "categorie": "Vignoble",
+          "coords": { "lat": 47.1350, "lng": 9.5150 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🥂",
+          "titre": "Vin",
+          "texte": "Le Liechtenstein produit d'excellents vins, notamment du Pinot Noir et du Chardonnay. La cave princière offre une belle opportunité de les découvrir."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🇦🇹",
+      "titre": "Escapade Charmante à Feldkirch (Autriche)",
+      "legende": "Traversez la frontière pour une journée relaxante à Feldkirch, une ville médiévale autrichienne à quelques kilomètres. Flânez dans ses ruelles historiques, admirez son château et profitez de l'ambiance d'une ville voisine.",
+      "lieu": "Feldkirch, Autriche",
+      "activites": [
+        "<strong>🚆</strong>: Trajet facile en train ou bus vers Feldkirch, Autriche.",
+        "<strong>🚶‍♀️</strong>: Exploration du centre historique de Feldkirch et de ses arcades médiévales.",
+        "<strong>🏰</strong>: Visite du Château de Schattenburg (extérieur et musée) dominant la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Feldkirch, Autriche",
+          "categorie": "Ville",
+          "coords": { "lat": 47.2360, "lng": 9.5960 }
+        },
+        {
+          "nom_recherche": "Château de Schattenburg, Feldkirch",
+          "categorie": "Château",
+          "coords": { "lat": 47.2370, "lng": 9.5960 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Frontière",
+          "texte": "Le passage de la frontière entre le Liechtenstein et l'Autriche est très simple et rapide, sans formalités particulières pour les citoyens de l'espace Schengen."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🧘‍♀️",
+      "titre": "Bien-être et Saveurs Locales",
+      "legende": "Après l'escapade autrichienne, revenez au Liechtenstein pour une journée axée sur le bien-être. Profitez d'un moment de détente dans un spa local ou explorez une fromagerie pour découvrir les saveurs alpines.",
+      "lieu": "Liechtenstein",
+      "activites": [
+        "<strong>🧖‍♀️</strong>: Matinée détente dans un centre de bien-être ou spa (si disponible localement).",
+        "<strong>🧀</strong>: Visite d'une fromagerie locale (ex: Triesenberg) pour une dégustation.",
+        "<strong>🚶‍♂️</strong>: Balade digestive dans la campagne environnante, profitant du calme."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Triesenberg, Liechtenstein",
+          "categorie": "Village",
+          "coords": { "lat": 47.1167, "lng": 9.5500 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🥛",
+          "titre": "Produits laitiers",
+          "texte": "Le Liechtenstein, avec ses alpages, est réputé pour ses produits laitiers frais, notamment ses fromages de montagne."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🚌",
+      "titre": "Tour Panoramique en Bus et Vues Inoubliables",
+      "legende": "Laissez-vous porter par un tour panoramique en bus à travers les paysages variés du Liechtenstein. C'est une manière relaxante d'admirer les montagnes, les vallées et les villages sans effort, avec des arrêts pour des photos.",
+      "lieu": "Liechtenstein",
+      "activites": [
+        "<strong>🚌</strong>: Journée dédiée à un tour panoramique en bus public à travers le pays.",
+        "<strong>📸</strong>: Arrêts photo aux points de vue les plus spectaculaires.",
+        "<strong>📖</strong>: Lecture ou détente en admirant les paysages défiler."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vaduz, Liechtenstein",
+          "categorie": "Ville",
+          "coords": { "lat": 47.1417, "lng": 9.5210 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🎫",
+          "titre": "Transport",
+          "texte": "Le système de bus public du Liechtenstein est très efficace et permet de se déplacer facilement dans tout le pays, offrant des vues magnifiques."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🛍️",
+      "titre": "Derniers Moments et Douceur à Vaduz",
+      "legende": "Profitez de cette dernière journée complète pour revisiter vos lieux préférés à Vaduz, faire les derniers achats de souvenirs ou simplement vous imprégner de l'ambiance avant le départ. Une soirée paisible pour clôturer le voyage.",
+      "lieu": "Vaduz",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Re-visite d'un musée ou d'un quartier de Vaduz que vous avez particulièrement apprécié.",
+        "<strong>🎁</strong>: Achats de dernière minute pour des souvenirs ou des spécialités locales.",
+        "<strong>🍽️</strong>: Dîner d'adieu dans un restaurant typique de Vaduz."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vaduz, Liechtenstein",
+          "categorie": "Ville",
+          "coords": { "lat": 47.1417, "lng": 9.5210 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Monnaie",
+          "texte": "La monnaie officielle est le franc suisse (CHF). Les cartes de crédit sont largement acceptées, mais il est toujours bon d'avoir un peu de liquide."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🛫",
+      "titre": "Départ du Liechtenstein",
+      "legende": "Après un séjour ressourçant au cœur des Alpes, il est temps de prendre le chemin du retour. Un transfert confortable vous ramènera à l'aéroport de Zurich pour votre vol vers l'Arménie, emportant avec vous de précieux souvenirs.",
+      "lieu": "Vaduz & Zurich",
+      "activites": [
+        "<strong>🛏️</strong>: Petit-déjeuner et check-out de l'hôtel.",
+        "<strong>🚌</strong>: Transfert de Vaduz à l'aéroport de Zurich (ZRH).",
+        "<strong>🛫</strong>: Enregistrement et vol retour vers Akner, Arménie."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport de Zurich et les formalités d'embarquement, surtout si votre vol est tôt le matin."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 419 €/pers (A/R EVN-ZRH)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/pers (bus/train local, transferts aéroport)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 900 €/pers (60-70 €/jour pour 2 repas + snacks)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 2400 €/pers (180-200 €/nuit pour 13 nuits en 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 230 €/pers (musées, dégustation, télésiège)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Décembre à Mars (sports d'hiver)", "symbole": "❄️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En septembre, les températures varient entre 8 et 18°C. Prévoir des vêtements chauds et imperméables, surtout en montagne.", "symbole": "🍁" },
+    { "titre": "La monnaie est le Franc Suisse (CHF). Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Le réseau de bus est excellent et dessert tout le pays. La Liechtenstein Card peut être avantageuse pour les transports et activités.", "symbole": "🚌" },
+    { "titre": "Le Liechtenstein est un pays sûr. Les langues officielles sont l'allemand, mais l'anglais est couramment parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Le Liechtenstein est le seul pays au monde entièrement situé dans les Alpes. Il est aussi l'un des deux seuls pays doublement enclavés (entouré de pays enclavés), l'autre étant l'Ouzbékistan."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "En 2011, le Liechtenstein a proposé de louer l'intégralité de son pays pour des événements privés via Airbnb, pour environ 70 000 $ la nuit, avec la possibilité d'avoir les clés de la ville et une dégustation de vin avec le Prince !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Käsknöpfle",
+      "description": "Des petites pâtes au fromage, souvent servies avec des oignons frits et de la compote de pommes. Un plat réconfortant et emblématique de la cuisine alpine."
+    },
+    {
+      "symbole": "🥣",
+      "titre": "Ribel",
+      "description": "Un plat simple mais nourrissant à base de semoule de maïs ou de blé, souvent consommé au petit-déjeuner ou comme accompagnement, parfois avec du lait ou du café."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Torkarebl",
+      "description": "Une pâtisserie traditionnelle du Liechtenstein, souvent préparée avec de la farine, du lait, des œufs et du sucre, puis frite ou cuite au four, un délice sucré."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/EVN-ZRH/2026-09-16/2026-09-30", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Liechtenstein", "url": "https://tourismus.li/fr/", "symbole": "📘" },
+    { "legende": "Transports publics Liechtenstein", "titre": "LIEmobil", "url": "https://www.liemobil.li/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Suisse (pour la région)", "url": "https://www.meteosuisse.admin.ch/home.html", "symbole": "🌤️" }
+  ]
+}
